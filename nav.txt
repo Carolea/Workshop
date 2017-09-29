@@ -1,0 +1,39 @@
+<main class="container">
+       
+     <!-- HEADER   -->
+        
+      <div class="row">
+         
+             <!-- 1er menu   -->
+          <header class="col-xs-12">
+               <div class="row">
+                   <nav class="col-xs-12">
+                       <ul class="menu1">
+                           <li><a href="#"><img src="assets/img/logo.png" alt="Logo Apple"></a></li>
+                           <li><a href="#">Mac</a></li>
+                           <li><a href="#">iPad</a></li>
+                           <li><a href="#">Watch</a></li>
+                           <li><a href="#">TV</a></li>
+                           <li><a href="#">Music</a></li>
+                           <li><a href="#">Assistance</a></li>
+                           <li><a href="#"><img src="assets/img/search.png" alt="Fausse Section de Recherche"></a></li>
+                       </ul>
+                   </nav>  
+                
+                 <!-- 2eme menu   -->
+                      <nav class="col-xs-12">
+                          <ul class="menu2">
+                              <li><a href="#"><img src="assets/img/menu/iPhone7.png" alt="iPhone 7"></a></li>
+                              <li><a href="#"><img src="assets/img/menu/iPhone6s.png" alt="iPhone 6s"></a></li>
+                              <li><a href="#"><img src="assets/img/menu/iPhoneSE.png" alt="iPhone SE"></a></li>
+                              <li><a href="#"><img src="assets/img/menu/iOs10.png" alt="iOS 10"></a></li>
+                              <li><a href="#"><img src="assets/img/menu/Accessoires.png" alt="Accessoires"></a></li>
+                              <li><a href="#"><img src="assets/img/menu/Comparer.png" alt="Comparer"></a></li>
+                          </ul>
+                      </nav>
+                    
+               </div>
+          </header>
+      </div>
+        
+     <!-- fin du header  -->
