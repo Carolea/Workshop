@@ -1,0 +1,34 @@
+/* Now here are the @font-tace files. I used examples from font-squirrel but TypeKit and FontDeck are good solutions too. Even Google has webfonts available */
+	
+@font-face {
+    font-family: 'BitstreamVeraSansRoman';
+    src: url('../fonts/Vera-webfont.eot');
+    src: url('../fonts/Vera-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Vera-webfont.woff') format('woff'),
+         url('../fonts/Vera-webfont.ttf') format('truetype'),
+         url('../fonts/Vera-webfont.svg#BitstreamVeraSansRoman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'BebasNeueRegular';
+    src: url('../fonts/BebasNeue-webfont.eot');
+    src: url('../fonts/BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/BebasNeue-webfont.woff') format('woff'),
+         url('../fonts/BebasNeue-webfont.ttf') format('truetype'),
+         url('../fonts/BebasNeue-webfont.svg#BebasNeueRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'ColaborateThinRegular';
+    src: url('../fonts/ColabThi-webfont.eot');
+    src: url('../fonts/ColabThi-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/ColabThi-webfont.woff') format('woff'),
+         url('../fonts/ColabThi-webfont.ttf') format('truetype'),
+         url('../fonts/ColabThi-webfont.svg#ColaborateThinRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

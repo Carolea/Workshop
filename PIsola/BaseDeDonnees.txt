@@ -1,0 +1,19 @@
+creer une 1ère table
+executer
+id_pays  = nom
+TINYINT  = type
+3        = taille/valeurs
+unsigned = attributs vous pouvez choisir l'attribut UNSIGNED qui signifie non-algébrique, cela limite les colonnes aux nombres positifs. 
+primary  = null index
+cocher ai auto-increment
+
+**************
+2eme ligne pays varchar 40
+**************
+3eme ligne country varchar 20
+-----------
+
+exporter
+
+personnaliser
+
